@@ -1,4 +1,4 @@
-class PatternDemo
+class PatterDemo
 {
 public static void main(String args[])
 {
